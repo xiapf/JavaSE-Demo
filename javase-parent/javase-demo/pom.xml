@@ -11,5 +11,12 @@
 
     <artifactId>javase-demo</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+        </dependency>
+    </dependencies>
+
 
 </project>
