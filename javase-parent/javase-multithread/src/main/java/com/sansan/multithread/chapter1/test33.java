@@ -1,4 +1,4 @@
-package com.sansan.multithread.demo;
+package com.sansan.multithread.chapter1;
 
 
 import java.util.ArrayList;
